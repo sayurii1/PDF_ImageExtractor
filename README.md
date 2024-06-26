@@ -1,2 +1,2 @@
 # PDF_ImageExtractor
-Console Application using .NET Framework to extract images from a PDF file and saving them in a target output folder
+Developed a console application using the .NET framework to extract images from PDF files and save them to a specified output folder. Demonstrated proficiency in .NET and file handling.
